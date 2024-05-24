@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 aligner = "center"> Olá, seja bem vindo(a) ao meu perfil!! 🙋‍♀️</h1>
 
-<!--
-**rehst/rehst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 👱‍♀️  Me chamo **Renata Strochinski**
+> 🇧🇷 Brasileira
 
-Here are some ideas to get you started:
+> 17 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📖  Estudante do terceiro ano do ensino médio 
+> 🏫 Colégio Estadual Rui Barbosa
+  
+-👩‍🔬  Futura CLT
+>👩‍⚕️
+> Farmacêutica
+
+#### 🖥 Projetos
+>🗓 [Objetivos do ano](https://rehst.github.io/renata/)
+
+>🔐 [Gerador de senhas](https://rehst.github.io/renata./)
+
+>🌎 [Projeto olá mundo](https://rehst.github.io/ola-mundo/)
+
+#### 📧  Contato
+> 🔎 Email: renata.strochinski@escola.pr.gov.br
+
+> 🔎 instagram: [rehstr](https://www.instagram.com/rehstr?igsh=eWNiNHVzYmJvdzdn)
+
+_Nos vemos no futuro, com novos projetos! 🙋‍♀️_
+
+![byee.](https://media1.tenor.com/m/3xh5gGxw-8oAAAAC/peace-peace-out.gif)
+
+
